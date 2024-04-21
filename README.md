@@ -1,38 +1,41 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU3b3RnemRqY3ZpNXNubGEyNXlhdXduMDBnem9veXB4ZTR0NWFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
-</div>
+
 
 # 🏄‍♂️ Jensen Jose 
 
 I'm currently an undergraduate student majoring in Computer Science and Engineering, with a strong passion for Cloud Computing, DevOps, and Open Source technologies. I'm always eager to collaborate on projects and ideas that are at the intersection of these areas!
+####
 
-#### 🌱 What I’m currently learning:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU3b3RnemRqY3ZpNXNubGEyNXlhdXduMDBnem9veXB4ZTR0NWFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
+</div>
+
+### 🌱 What I’m currently learning:
 - **Cloud Platforms**: Getting hands-on with AWS, Azure, and Google Cloud.
 - **Containerization and Orchestration**: Diving deeper into Docker, Kubernetes, and Helm.
 - **Infrastructure as Code (IaC)**: Experimenting with tools like Terraform and Ansible.
 - **CI/CD Pipelines**: Implementing pipelines using Jenkins, GitHub Actions, and GitLab CI.
 
-#### 👯 I’m looking to collaborate on:
+### 👯 I’m looking to collaborate on:
 - Open source projects focused on cloud and DevOps.
 - Innovative tools and technologies in the cloud space.
 - Any kind of automation that makes software development processes more efficient.
 
-#### 🤔 I’m looking for help with:
+### 🤔 I’m looking for help with:
 - Advanced Kubernetes deployments and management.
 - Best practices for multi-cloud environments and security.
 
-#### 💬 Ask me about:
+### 💬 Ask me about:
 - My experience with cloud services and DevOps tools.
 - Tips for beginners starting out in cloud computing and open source contributions.
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 - **GitHub**: [JensenJose](https://github.com/JensenJose)
 - **LinkedIn**: [Jensen](https://www.linkedin.com/in/jensenjose)
 - **Email**: jensenjose18@gmail.com
 
 
 
-#### 🛠 Technologies & Tools:
+### 🛠 Technologies & Tools:
 <img align="left" alt="AWS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Terraform" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
