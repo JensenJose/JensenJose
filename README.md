@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU3b3RnemRqY3ZpNXNubGEyNXlhdXduMDBnem9veXB4ZTR0NWFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU3b3RnemRqY3ZpNXNubGEyNXlhdXduMDBnem9veXB4ZTR0NWFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
 </div>
 
 # 🏄‍♂️ Jensen Jose 
