@@ -1,9 +1,6 @@
-
-
 # 🏄‍♂️ Jensen Jose 
 
 I'm currently an undergraduate student majoring in Computer Science and Engineering, with a strong passion for Cloud Computing, DevOps, and Open Source technologies. I'm always eager to collaborate on projects and ideas that are at the intersection of these areas!
-####
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU3b3RnemRqY3ZpNXNubGEyNXlhdXduMDBnem9veXB4ZTR0NWFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
