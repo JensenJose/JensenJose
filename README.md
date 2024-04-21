@@ -22,6 +22,17 @@ I'm currently an undergraduate student majoring in Computer Science and Engineer
 - Tips for beginners starting out in cloud computing and open source contributions.
 
 #### 📫 How to reach me:
-- **GitHub**: [YourGitHub](https://github.com/YourUsername)
-- **LinkedIn**: [YourLinkedIn](https://www.linkedin.com/in/YourUsername)
-- **Email**: your.email@example.com
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/jensenjose/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://jensenjose.com/">
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=document&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> <br>
+  <a href = "https://github.com/JensenJose">
+  <img src="https://komarev.com/ghpvc/?username=Raghul-G2002&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
