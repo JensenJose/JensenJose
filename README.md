@@ -22,14 +22,20 @@ I'm currently an undergraduate student majoring in Computer Science and Engineer
 - Tips for beginners starting out in cloud computing and open source contributions.
 
 #### 📫 How to reach me:
-<div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/jensenjose/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://jensenjose.com/">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=document&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href = "https://github.com/JensenJose">
-  <img src="https://komarev.com/ghpvc/?username=Raghul-G2002&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
+- **GitHub**: [YourGitHub](https://github.com/JensenJose)
+- **LinkedIn**: [YourLinkedIn](https://www.linkedin.com/in/jensenjose)
+- **Email**: jensenjose18@gmail.com
+
+### 🛠 Technologies & Tools:
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
+
